@@ -1,7 +1,7 @@
 # lainos_repo
 A Pacman repository for the inclusion of Calamares installer during LainOS ISO build and for packages not included in the Arch Core, Extra, Community, and AUR repositories.
 
-To use this repo, append this line to pacman.conf:
+To use this repo, append these lines to /etc/pacman.conf:
 
 [lainos_repo]
 
